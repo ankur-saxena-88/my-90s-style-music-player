@@ -4,6 +4,8 @@
 
 This is a basic 90's Style music player. It is still in the development stage, with a very simple and basic user interface. The design is inspired by the music players from the 1990s, featuring a minimalist and retro look.
 
+![My 90's Style Music Player Screenshot](./music-player-screenshot.png)
+
 ## Features:
 
 - **Playlists**: You can load multiple music files via the file input, and the songs will be displayed in a playlist that users can click to play.
