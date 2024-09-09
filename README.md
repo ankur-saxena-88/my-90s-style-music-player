@@ -18,6 +18,11 @@ This is a basic 90's Style music player. It is still in the development stage, w
 - **Volume Controls**: Use the buttons to increase or decrease the volume.
 - **Automatic Next**: When one song finishes, the next song in the playlist will automatically start playing.
 
+Feel free to explore, provide feedback, or contribute to its development. 🎶
+
+
+
+
 ## How to Use:
 
 1. Copy the code of `index.html` and `main.js` into `.html` and `.js` files, respectively.
