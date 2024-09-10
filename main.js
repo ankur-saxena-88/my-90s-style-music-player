@@ -76,3 +76,9 @@ function nextSong() {
 
     // Automatically go to the next song when one ends
     audioPlayer.addEventListener('ended', nextSong);
+
+// Update music timeline as the song plays
+    audioPlayer.addEventListener('timeupdate', () => {
+      musicTimeline.max = audioPlayer.duration;
+      musicTimeline.value = audioPlayer.currentTime;
+    });
