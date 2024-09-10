@@ -82,3 +82,8 @@ function nextSong() {
       musicTimeline.max = audioPlayer.duration;
       musicTimeline.value = audioPlayer.currentTime;
     });
+
+// Allow users to click and move the timeline to seek
+    musicTimeline.addEventListener('input', () => {
+      audioPlayer.currentTime = musicTimeline.value;
+    });
