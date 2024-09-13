@@ -22,7 +22,7 @@ This is a basic 90's Style music player. It is still in the development stage, w
 
 ## How to Use:
 
-1. Copy the code of `index.html` and `main.js` into `.html` and `.js` files, respectively.
+1. Create a new file with an `.html` extension on your local machine, and copy the code from `index.html` into the new `.html` file.
 2. Open the HTML file in a browser.
 3. Use the `Choose File` button to load audio files from your computer, and then control playback using the buttons.
 
